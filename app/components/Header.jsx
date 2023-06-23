@@ -13,7 +13,8 @@ const Header = () => {
               <Image
                 src="/assets/images/logo/LogoOD.png"
                 alt="O-Digital"
-                fill
+                width={208}
+                height={56}
               />
             </a>
           </div>
