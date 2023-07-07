@@ -1,3 +1,4 @@
+import Footer from "./components/Footer";
 import HeroSection from "./components/HeroSection";
 import OurTeam from "./components/OurTeam";
 import Partner from "./components/Partner";
@@ -14,6 +15,7 @@ export default function Home() {
       <OurTeam />
       <Testimonial />
       <Pricing />
+      <Footer />
     </div>
   );
 }
