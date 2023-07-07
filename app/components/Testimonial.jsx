@@ -29,8 +29,8 @@ const Testimonial = () => {
                 </div>
               </div>
             </div>
-            <div className="w-full h-[315px] md:h-[534px] relative order-last md:order-first">
-              <div className="w-[261px] md:w-3/4 absolute right-0 top-7 md:top-10">
+            <div className="w-[320px] mx-auto md:w-full h-[315px] md:h-[534px] bg-gradient-to-br from-[#1f1c1c] to-[#2d2424] rounded-2xl relative order-last md:order-first">
+              <div className="w-[261px] md:w-3/4 absolute -right-2 top-7 md:top-10">
                 <Image
                   src="/assets/images/testimonial/joha-smith.png"
                   width={443}
@@ -40,10 +40,10 @@ const Testimonial = () => {
               </div>
               <div className="w-[261px] md:w-3/4 absolute left-0 bottom-3 md:bottom-5">
                 <Image
-                  src="/assets/images/testimonial/joha-smith.png"
+                  src="/assets/images/testimonial/hoja-koith.png"
                   width={443}
                   height={210}
-                  alt="joha-smith"
+                  alt="hoja-koith"
                 />
               </div>
             </div>

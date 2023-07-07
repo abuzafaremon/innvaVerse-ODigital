@@ -1,6 +1,7 @@
 import HeroSection from "./components/HeroSection";
 import OurTeam from "./components/OurTeam";
 import Partner from "./components/Partner";
+import Pricing from "./components/Pricing";
 import Services from "./components/Services";
 import Testimonial from "./components/Testimonial";
 
@@ -12,6 +13,7 @@ export default function Home() {
       <Services />
       <OurTeam />
       <Testimonial />
+      <Pricing />
     </div>
   );
 }
